@@ -1,6 +1,5 @@
 ## Hi,This is Fulsur
-I’m currently learning Django and HTML.
-You can visit my website (http://fulsur.com)
+
 
 <!--
 **Fulsur/Fulsur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
